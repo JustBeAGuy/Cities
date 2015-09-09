@@ -1,0 +1,56 @@
+body {
+    /*height: 100%;*/
+    background-color: #abc;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+#head, #content, #login_block, .admin, #regForm {
+    display: none;
+}
+
+#head {
+    width: 100%;
+    height: 34px;
+    background-color: #333;
+    color: #fff;
+}
+
+#logout:hover{
+    color: #abc;
+    cursor: pointer;
+    cursor: hand;
+}
+
+#head div {
+    display: inline-block;
+    float: right;
+    padding: 7px;
+}
+
+#content {
+    width: 300px;
+    /*height: 250px;*/
+    margin: 0 auto;
+    padding: 7px;
+    /*padding-top: 100px;*/
+}
+
+#loginError, #requestError, #regError {
+    color: red;
+}
+
+#requestSuccess {
+    color: forestgreen;
+}
+
+#footer{
+    width: 100%;
+    height: 28px;
+    background-color: #333;
+    color: #fff;
+}
+#copyright {
+    float: right;
+    padding: 5px;
+}

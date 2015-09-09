@@ -1,0 +1,121 @@
+<html>
+<head>
+    <title>CITIES</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <link rel="stylesheet" href="css/main.css">
+    <script src="js/jquery-1.7.1.min.js"></script>
+    <script src="js/main.js"></script>
+</head>
+<body>
+
+    <div id="head">
+        <div id="logout" onclick="logout();">Logout</div>
+        <div>|</div>
+        <div id="username"></div>
+    </div>
+
+    <div id="content">
+        <div id="requestError"></div>
+        <div id="requestSuccess"></div>
+        <table>
+            <tr>
+                <td class="admin">
+                    <input  id="delete_country" type="button" value="Delete" />
+                </td>
+                <td>County: </td>
+                <td>
+                    <select id="select_country" >
+                        <option value="default">Country</option>
+                    </select>
+                </td>
+                <td class="admin">
+                    <input id="add_country" type="button" value="Add" />
+                </td>
+                <td class="admin">
+                    <input id="update_country" type="button" value="Update" />
+                </td>
+                <td class="admin" style="width:100px">
+                    <input  id="new_country_name" type="text" />
+                </td>
+            </tr>
+            <tr>
+                <td class="admin">
+                    <input  id="delete_city" type="button" value="Delete" />
+                </td>
+                <td>City: </td>
+                <td>
+                    <select id="select_city" >
+                        <option value="default">City</option>
+                    </select>
+                </td>
+                <td class="admin">
+                    <input  id="add_city" type="button" value="Add" />
+                </td>
+                <td class="admin">
+                    <input  id="update_city" type="button" value="Update" />
+                </td>
+                <td class="admin" style="width:100px">
+                    <input  id="new_city_name" type="text" />
+                </td>
+            </tr>
+        </table>
+    </div>
+
+    <div id="login_block">
+        <form name="loginForm" id="loginForm"
+              action="javascript:void(null);" onsubmit="login();">
+            <table>
+                <tr>
+                    <td>Email:</td>
+                    <td><input type="email" name="email"></td>
+                </tr>
+                <tr>
+                    <td>Password:</td>
+                    <td><input type="password" name="password" /></td>
+                </tr>
+                <tr>
+                    <td>Remember Me:</td>
+                    <td><input type="checkbox" name="remember-me"/></td>
+                </tr>
+                <tr>
+                    <td ><input name="submit" type="submit"
+                                           value="submit" /></td>
+                    <td ><input id="regButton" name="register" type="button"
+                                           value="register" style="margin-left:7px"/></td>
+                </tr>
+                <tr>
+                    <td id="loginError"></td>
+                </tr>
+            </table>
+        </form>
+        <form name="regForm" id="regForm"
+              action="javascript:void(null);" onsubmit="registration();">
+            <table>
+                <tr>
+                    <td>Email:</td>
+                    <td><input type="email" name="email"></td>
+                </tr>
+                <tr>
+                    <td>Password:</td>
+                    <td><input type="password" name="password" /></td>
+                </tr>
+                <tr>
+                    <td>Remember Me:</td>
+                    <td><input type="checkbox" name="remember-me"/></td>
+                </tr>
+                <tr>
+                    <td colspan='2'><input name="register" type="submit"
+                                           value="register" /></td>
+                </tr>
+                <tr>
+                    <td id="regError"></td>
+                </tr>
+            </table>
+        </form>
+    </div>
+
+    <div id="footer">
+        <div id="copyright">by Andrii Posia</div>
+    </div>
+</body>
+</html>
