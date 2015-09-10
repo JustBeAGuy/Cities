@@ -300,6 +300,7 @@ function registration(){
     //post
     $.post("/api/user", $( "#regForm" ).serialize(), function( data ) {
         if(data.status == "Success") {
+            $("#regForm").hide();
             alert("Successfully, Please login now");
         } else{
             $("#regError").text(data.result);

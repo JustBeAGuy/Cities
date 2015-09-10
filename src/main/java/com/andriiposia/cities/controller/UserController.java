@@ -115,7 +115,7 @@ public class UserController {
         return response;
     }
 
-//    @Secured("ROLE_ADMIN")
+    @Secured("ROLE_ADMIN")
     @RequestMapping(value = "/admin", method = RequestMethod.POST, produces = "application/json")
     @ResponseStatus(HttpStatus.OK)
     public @ResponseBody

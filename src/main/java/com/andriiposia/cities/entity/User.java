@@ -2,9 +2,6 @@ package com.andriiposia.cities.entity;
 
 import org.apache.commons.codec.digest.DigestUtils;
 import org.hibernate.annotations.Cascade;
-import org.hibernate.annotations.Generated;
-import org.hibernate.annotations.GenerationTime;
-import org.hibernate.annotations.GenericGenerator;
 import org.hibernate.validator.constraints.Email;
 import org.hibernate.validator.constraints.NotEmpty;
 
@@ -14,7 +11,6 @@ import javax.validation.constraints.Size;
 import java.util.HashSet;
 import java.util.Set;
 
-import static javax.persistence.GenerationType.IDENTITY;
 
 /**
  * Created by Администратор on 9/3/15.
@@ -22,12 +18,6 @@ import static javax.persistence.GenerationType.IDENTITY;
 @Entity
 @Table(name = "USERS")
 public class User implements java.io.Serializable {
-
-////    @GeneratedValue(strategy = IDENTITY)
-//    @Generated(value= GenerationTime.INSERT)
-//    @GenericGenerator(name="fieldGenerator", strategy="sequence")
-//    @Column(name = "ID", unique = true, nullable = false)
-//    private Integer id;
 
     @Id
     @NotEmpty

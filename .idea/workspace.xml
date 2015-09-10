@@ -1,7 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="26274d9e-13d4-45df-b299-b5792e2dd4b5" name="Default" comment="">
+    <list default="true" id="26274d9e-13d4-45df-b299-b5792e2dd4b5" name="Default" comment="Initial commit&#10;">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_1_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_attrs_1_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_2_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_persistence_api_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_transaction_jta_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ehcache_ehcache_1_2_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_ejb3_persistence_1_0_1_GA.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_3_2_6_ga.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_annotations_3_3_1_GA.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_commons_annotations_3_3_0_ga.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_3_3_2_GA.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_1_3_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_1_3_GA.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_4_0_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_4_0_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_4_0_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_1_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_1_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_1_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_1_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_4_1_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_1_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_1_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_1_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Cities.iml" afterPath="$PROJECT_DIR$/Cities.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/Cities_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/Cities_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/andriiposia/cities/entity/City.java" afterPath="$PROJECT_DIR$/src/main/java/com/andriiposia/cities/entity/City.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/andriiposia/cities/entity/User.java" afterPath="$PROJECT_DIR$/src/main/java/com/andriiposia/cities/entity/User.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/andriiposia/cities/controller/UserController.java" afterPath="$PROJECT_DIR$/src/main/java/com/andriiposia/cities/controller/UserController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/andriiposia/cities/dao/UserDAOImpl.java" afterPath="$PROJECT_DIR$/src/main/java/com/andriiposia/cities/dao/UserDAOImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/index.html" afterPath="$PROJECT_DIR$/src/main/webapp/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/js/main.js" afterPath="$PROJECT_DIR$/src/main/webapp/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Cities.iws" />
@@ -66,41 +116,77 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="CityController.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/andriiposia/cities/controller/CityController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="58" column="138" selection-start="2190" selection-end="2215" vertical-scroll-proportion="0.0" vertical-offset="880" max-vertical-offset="2193">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserController.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/andriiposia/cities/controller/UserController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="123" column="0" selection-start="4685" selection-end="4685" vertical-scroll-proportion="0.3962704" vertical-offset="1581" max-vertical-offset="2482">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="82" column="45" selection-start="2939" selection-end="2948" vertical-scroll-proportion="-8.692307" vertical-offset="1168" max-vertical-offset="2159">
+            <state line="83" column="60" selection-start="3040" selection-end="3040" vertical-scroll-proportion="-5.769231" vertical-offset="1261" max-vertical-offset="2091">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="City.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/andriiposia/cities/entity/City.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="0" selection-start="39" selection-end="39" vertical-scroll-proportion="0.040380046" vertical-offset="0" max-vertical-offset="1479">
               <folding>
-                <element signature="n#style#0;n#td#5;n#tr#0;n#table#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#5;n#tr#1;n#table#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#input#0;n#td#1;n#tr#3;n#table#0;n#form#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/css/main.css">
+      <file leaf-file-name="UserRole.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/andriiposia/cities/entity/UserRole.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="15" selection-start="596" selection-end="596" vertical-scroll-proportion="0.0" vertical-offset="513" max-vertical-offset="1037">
+            <state line="71" column="54" selection-start="1644" selection-end="1644" vertical-scroll-proportion="0.0" vertical-offset="1" max-vertical-offset="1343">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyUserDetailsService.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/andriiposia/cities/service/MyUserDetailsService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="33" column="61" selection-start="1231" selection-end="1231" vertical-scroll-proportion="0.0" vertical-offset="141" max-vertical-offset="935">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserDAO.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/andriiposia/cities/dao/UserDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="9" selection-start="165" selection-end="165" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserDAOImpl.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/andriiposia/cities/dao/UserDAOImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="29" column="53" selection-start="807" selection-end="807" vertical-scroll-proportion="0.0" vertical-offset="115" max-vertical-offset="1037">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="63" selection-start="833" selection-end="833" vertical-scroll-proportion="0.0" vertical-offset="99" max-vertical-offset="3655">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jdbc.properties" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jdbc.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="18" selection-start="230" selection-end="230" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187">
               <folding />
             </state>
           </provider>
@@ -109,8 +195,20 @@
       <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="21" selection-start="139" selection-end="139" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5899">
+            <state line="302" column="33" selection-start="7772" selection-end="7772" vertical-scroll-proportion="0.0" vertical-offset="5058" max-vertical-offset="5916">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="User.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/andriiposia/cities/entity/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="0" selection-start="401" selection-end="401" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1428">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#setPassword#0;class#User#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -123,6 +221,11 @@
     </FindUsagesManager>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Andrii Posia" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -140,38 +243,38 @@
         <option value="$PROJECT_DIR$/src/main/java/com/andriiposia/cities/dao/CityDAOImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/andriiposia/cities/service/CityServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/andriiposia/cities/service/CityService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/andriiposia/cities/entity/City.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/andriiposia/cities/dao/CountryDAO.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/andriiposia/cities/dao/CountryDAOImpl.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/com/andriiposia/cities/dao/UserDAO.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/andriiposia/cities/service/UserService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/andriiposia/cities/service/UserServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/andriiposia/cities/entity/User.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/data.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/login.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/cities.html" />
         <option value="$PROJECT_DIR$/src/main/java/com/andriiposia/cities/service/MyUserDetailsService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/andriiposia/cities/dao/UserDAOImpl.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/login.html" />
         <option value="$PROJECT_DIR$/src/main/webapp/js/jquery-1.7.1.min.js" />
         <option value="$PROJECT_DIR$/src/main/webapp/js/mainscript.js" />
         <option value="$PROJECT_DIR$/src/main/java/com/andriiposia/cities/service/CountryService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/andriiposia/cities/controller/CountryController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/andriiposia/cities/controller/CityController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/andriiposia/cities/entity/UserRole.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/andriiposia/cities/entity/Country.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jdbc.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/andriiposia/cities/service/CountryServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/security.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/css/main.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/data.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/andriiposia/cities/entity/UserRole.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/andriiposia/cities/entity/Country.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/andriiposia/cities/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/andriiposia/cities/dao/UserDAOImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jdbc.properties" />
         <option value="$PROJECT_DIR$/src/main/webapp/index.html" />
         <option value="$PROJECT_DIR$/src/main/webapp/js/main.js" />
-        <option value="$PROJECT_DIR$/src/main/java/com/andriiposia/cities/controller/UserController.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/css/main.css" />
+        <option value="$PROJECT_DIR$/src/main/java/com/andriiposia/cities/entity/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/andriiposia/cities/entity/City.java" />
       </list>
     </option>
   </component>
@@ -1035,7 +1138,7 @@
       <workItem from="1441304197523" duration="25391000" />
       <workItem from="1441382751062" duration="55739000" />
       <workItem from="1441657272026" duration="66265000" />
-      <workItem from="1441825408830" duration="2328000" />
+      <workItem from="1441825408830" duration="10120000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit&#10;">
       <created>1441809240686</created>
@@ -1045,15 +1148,23 @@
       <created>1441809335028</created>
       <updated>1441809335028</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Initial commit&#10;">
+      <created>1441827855975</created>
+      <updated>1441827855975</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Release 1.0&#10;">
+      <created>1441828337689</created>
+      <updated>1441828337689</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="149723000" />
+    <option name="totallyTimeSpent" value="157515000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-5" y="-5" width="1034" height="570" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -1071,19 +1182,19 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32910156" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25097656" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32692307" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25097656" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.7777778" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -1132,7 +1243,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="Initial commit&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit&#10;" />
+    <MESSAGE value="Release 1.0&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Release 1.0&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1142,16 +1254,11 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="0" selection-start="1165" selection-end="1165" vertical-scroll-proportion="0.0" vertical-offset="554" max-vertical-offset="850">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/javax/persistence/persistence-api/1.0/persistence-api-1.0-sources.jar!/javax/persistence/Table.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="42" selection-start="1846" selection-end="1877" vertical-scroll-proportion="0.5092379" vertical-offset="154" max-vertical-offset="1020" />
+        <state line="59" column="42" selection-start="1846" selection-end="1877" vertical-scroll-proportion="0.5092379" vertical-offset="154" max-vertical-offset="1020">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/javax/persistence/persistence-api/1.0/persistence-api-1.0-sources.jar!/javax/persistence/Entity.java">
@@ -1197,12 +1304,7 @@
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="110" column="19" selection-start="3617" selection-end="3617" vertical-scroll-proportion="0.33333334" vertical-offset="1183" max-vertical-offset="53142" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/andriiposia/cities/entity/City.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="11" selection-start="966" selection-end="966" vertical-scroll-proportion="0.33208954" vertical-offset="387" max-vertical-offset="1394">
+        <state line="110" column="19" selection-start="3617" selection-end="3617" vertical-scroll-proportion="0.33333334" vertical-offset="1183" max-vertical-offset="53142">
           <folding />
         </state>
       </provider>
@@ -1216,7 +1318,9 @@
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/javax/persistence/persistence-api/1.0/persistence-api-1.0-sources.jar!/javax/persistence/OneToMany.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="92" column="18" selection-start="3000" selection-end="3000" vertical-scroll-proportion="0.33254156" vertical-offset="965" max-vertical-offset="1513" />
+        <state line="92" column="18" selection-start="3000" selection-end="3000" vertical-scroll-proportion="0.33254156" vertical-offset="965" max-vertical-offset="1513">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/javax/persistence/persistence-api/1.0/persistence-api-1.0-sources.jar!/javax/persistence/CascadeType.java">
@@ -1250,16 +1354,11 @@
         <state line="50" column="18" selection-start="972" selection-end="972" vertical-scroll-proportion="0.67695963" vertical-offset="174" max-vertical-offset="595" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/andriiposia/cities/dao/CityDAOImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="5" selection-start="1240" selection-end="1240" vertical-scroll-proportion="1.6312218" vertical-offset="10" max-vertical-offset="1037">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/javax/persistence/persistence-api/1.0/persistence-api-1.0-sources.jar!/javax/persistence/Column.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="18" selection-start="1961" selection-end="1961" vertical-scroll-proportion="-2.902985" vertical-offset="1339" max-vertical-offset="1836" />
+        <state line="58" column="18" selection-start="1961" selection-end="1961" vertical-scroll-proportion="-2.902985" vertical-offset="1339" max-vertical-offset="1836">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-annotations/3.3.1.GA/hibernate-annotations-3.3.1.GA.jar!/org/hibernate/annotations/GenericGenerator.class">
@@ -1270,13 +1369,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/andriiposia/cities/service/UserService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="11" selection-start="211" selection-end="211" vertical-scroll-proportion="0.4038005" vertical-offset="0" max-vertical-offset="421">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/andriiposia/cities/dao/UserDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="11" selection-start="203" selection-end="203" vertical-scroll-proportion="0.5882353" vertical-offset="0" max-vertical-offset="357">
           <folding />
         </state>
       </provider>
@@ -1321,35 +1413,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/andriiposia/cities/entity/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="31" selection-start="1988" selection-end="1988" vertical-scroll-proportion="0.0" vertical-offset="156" max-vertical-offset="1360">
-          <folding>
-            <element signature="method#setPassword#0;class#User#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/andriiposia/cities/service/CountryService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="15" selection-start="434" selection-end="434" vertical-scroll-proportion="0.3846154" vertical-offset="34" max-vertical-offset="476">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/andriiposia/cities/entity/UserRole.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="37" selection-start="1387" selection-end="1387" vertical-scroll-proportion="0.0" vertical-offset="657" max-vertical-offset="1326">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/andriiposia/cities/entity/Country.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="75" column="37" selection-start="2138" selection-end="2138" vertical-scroll-proportion="0.0" vertical-offset="849" max-vertical-offset="1360">
-          <folding>
-            <element signature="e#1459#1465#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1360,38 +1427,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="8" selection-start="810" selection-end="810" vertical-scroll-proportion="0.0" vertical-offset="242" max-vertical-offset="3298">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/data.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="58" selection-start="3127" selection-end="3127" vertical-scroll-proportion="0.5641026" vertical-offset="693" max-vertical-offset="1122">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jdbc.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="18" selection-start="230" selection-end="230" vertical-scroll-proportion="0.1923077" vertical-offset="0" max-vertical-offset="442" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/andriiposia/cities/service/UserServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="23" column="18" selection-start="609" selection-end="609" vertical-scroll-proportion="0.0" vertical-offset="237" max-vertical-offset="748">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/andriiposia/cities/service/MyUserDetailsService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="71" selection-start="2035" selection-end="2081" vertical-scroll-proportion="1.0067873" vertical-offset="235" max-vertical-offset="935">
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1408,13 +1449,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/andriiposia/cities/service/CityServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="18" selection-start="459" selection-end="478" vertical-scroll-proportion="0.4954751" vertical-offset="2" max-vertical-offset="748">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/andriiposia/cities/dao/UserDAOImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="24" selection-start="818" selection-end="818" vertical-scroll-proportion="0.84615386" vertical-offset="0" max-vertical-offset="1037">
           <folding />
         </state>
       </provider>
@@ -1440,34 +1474,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/andriiposia/cities/controller/CityController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="138" selection-start="2190" selection-end="2215" vertical-scroll-proportion="0.0" vertical-offset="880" max-vertical-offset="2193">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/web-forms.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state line="138" column="16" selection-start="3091" selection-end="3091" vertical-scroll-proportion="0.33333334" vertical-offset="2203" max-vertical-offset="10132">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="82" column="45" selection-start="2939" selection-end="2948" vertical-scroll-proportion="-8.692307" vertical-offset="1168" max-vertical-offset="2159">
-          <folding>
-            <element signature="n#style#0;n#td#5;n#tr#0;n#table#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#5;n#tr#1;n#table#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#td#1;n#tr#3;n#table#0;n#form#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="21" selection-start="139" selection-end="139" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5899">
           <folding />
         </state>
       </provider>
@@ -1479,10 +1488,122 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/andriiposia/cities/controller/CityController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="76" column="97" selection-start="2860" selection-end="2871" vertical-scroll-proportion="0.0" vertical-offset="853" max-vertical-offset="2006">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/andriiposia/cities/dao/CityDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="56" selection-start="1234" selection-end="1234" vertical-scroll-proportion="0.0" vertical-offset="532" max-vertical-offset="1037">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="56" selection-start="554" selection-end="554" vertical-scroll-proportion="0.5249406" vertical-offset="0" max-vertical-offset="421">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/data.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="19" selection-start="2660" selection-end="2660" vertical-scroll-proportion="0.0" vertical-offset="693" max-vertical-offset="1122">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/andriiposia/cities/entity/Country.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="0" selection-start="883" selection-end="945" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1360">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/andriiposia/cities/controller/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="123" column="0" selection-start="4685" selection-end="4685" vertical-scroll-proportion="0.3962704" vertical-offset="1581" max-vertical-offset="2482">
+        <state line="118" column="26" selection-start="4320" selection-end="4320" vertical-scroll-proportion="0.20833333" vertical-offset="1581" max-vertical-offset="2482">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/andriiposia/cities/service/MyUserDetailsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="61" selection-start="1231" selection-end="1231" vertical-scroll-proportion="0.0" vertical-offset="141" max-vertical-offset="935">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/andriiposia/cities/dao/UserDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="9" selection-start="165" selection-end="165" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/andriiposia/cities/dao/UserDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="53" selection-start="807" selection-end="807" vertical-scroll-proportion="0.0" vertical-offset="115" max-vertical-offset="1037">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="63" selection-start="833" selection-end="833" vertical-scroll-proportion="0.0" vertical-offset="99" max-vertical-offset="3655">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="18" selection-start="230" selection-end="230" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="83" column="60" selection-start="3040" selection-end="3040" vertical-scroll-proportion="-5.769231" vertical-offset="1261" max-vertical-offset="2091">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="302" column="33" selection-start="7772" selection-end="7772" vertical-scroll-proportion="0.0" vertical-offset="5058" max-vertical-offset="5916">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/andriiposia/cities/entity/UserRole.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="71" column="54" selection-start="1644" selection-end="1644" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1326">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/andriiposia/cities/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="401" selection-end="401" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1428">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#setPassword#0;class#User#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/andriiposia/cities/entity/City.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="39" selection-end="39" vertical-scroll-proportion="0.040380046" vertical-offset="0" max-vertical-offset="1479">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -27,7 +27,7 @@ public class UserDAOImpl implements UserDAO {
 
         users = sessionFactory.getCurrentSession()
                 .createQuery("FROM User WHERE email=?")
-                .setParameter(0, email)
+                .setParameter(0, email.toLowerCase())
                 .list();
         Logger.getLogger("USERDAO").info("size: " + users.size());
         if (users.size() > 0) {
